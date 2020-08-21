@@ -1,4 +1,4 @@
-### Hellur, my name is Brian Hambleton 👋
+### Hellur, my name is Brian Hambleton 
 
 <!--
 **bhambleton/bhambleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
