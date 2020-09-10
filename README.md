@@ -1,4 +1,19 @@
-### Hellur, my name is Brian Hambleton 
+### Hi, my name is Brian Hambleton 
+#### I like creating things, learning how stuff works, and figuring out how to break stuff (probably safely).
+
+I enjoy using my creativity and technical knowledge and abilities to solve a variety of problems requiring a wide range of solutions, including 
+ * software development (mobile, web, and desktop apps, data structures, algorithms)
+ * computer security and forensics (reverse engineering a binary blob, malware analysis and identification)
+ * multimedia content creation 
+
+When I'm not on a computer, I love exploring all the things our world has to offer.
+
+
+:bulb: Currently learning: more data structures and algorithms (interview prep) and *wanting to learn Go*
+:denmark: I am currently learning Danish *Hej, taler du Dansk?*
+:book: Currently reading: Outliers by Malcolm Gladwell 
+
+**Here you'll find some projects that I have worked on as I learn (indefinitely) about the world of computer programming.**
 
 <!--
 **bhambleton/bhambleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
