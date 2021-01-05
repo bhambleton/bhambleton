@@ -4,13 +4,13 @@
 
 I enjoy using my technical knowledge and skills as well as my creativity to solve a variety of problems requiring a wide range of solutions, including: software development, computer security and forensics, and multimedia content creation. 
 
-  :bulb: Currently working through past CTF challenges and attempting hackthebox challenges
+  :bulb: Currently learning Go and practicing interview questions
 
-  :school: Current courses: Operating Systems 2 and Network Security
+  :school: Current courses: Cryptography and Programming Languages
 
   :denmark: I am currently learning Danish *Hej, taler du Dansk?*
 
-  :book: Currently reading: Outliers by Malcolm Gladwell 
+  :book: Currently reading: Talking to Strangers by Malcolm Gladwell 
 
 
 <!--
